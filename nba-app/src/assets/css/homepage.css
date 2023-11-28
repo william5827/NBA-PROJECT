@@ -1,0 +1,87 @@
+body{
+margin: 0;
+padding: 0;
+font-family: 'Mulish', sans-serif;
+}
+
+.inicio{
+    height: 100%;
+    width: 100%;
+    /*background-color: white;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menuhomepage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-image: url('../image/bola.avif');*/
+    background-color: rgb(141, 17, 17);
+    background-size: cover;
+    background-position: center;
+}
+
+.login{
+    width: 95%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.menu{
+    width: 100%;
+    height: 95%;
+    background-color: #1F428F;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 22px solid white;
+    border-radius: 50px;
+}
+
+.navbar{
+    width: 50%;
+    height: 100%;
+    /*background-color: pink;*/
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    
+}
+
+.navbar p{
+    margin: 0;
+    color: white;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.navbar a{
+    outline: none;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    margin-left: 30px;
+    transition: 0.2s;
+}
+
+.imglebron {
+    width: 50%;
+    height: 100%;
+    border-radius: 50px;
+}
+
+.imglebron img {
+    background-size: cover;
+    background-position: center;
+    width: 700px;
+    height: 100%;
+} 
