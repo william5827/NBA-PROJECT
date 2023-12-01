@@ -304,9 +304,77 @@ const teams = [
             "name": "ORLANDO MAGIC",
             "image": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
             "players": [{
-                "name": "",
-                "image": "",
-                "number": ""
+                "name": "anthony black",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641710.png",
+                "number": "0"
+            }, {
+                "name": "jonathan isaac",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png",
+                "number": "1"
+            }, {
+                "name": "caleb houstan",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631216.png",
+                "number": "2"
+            }, {
+                "name": "chuma okeke",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png",
+                "number": "3"
+            }, {
+                "name": "jalen suggs",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png",
+                "number": "4"
+            }, {
+                "name": "paolo banchero",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
+                "number": "5"
+            }, {
+                "name": "joe ingles",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png",
+                "number": "7"
+            }, {
+                "name": "kevon harris",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630284.png",
+                "number": "8"
+            }, {
+                "name": "trevelin queen",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630243.png",
+                "number": "12"
+            }, {
+                "name": "jett howard",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641724.png",
+                "number": "13"
+            }, {
+                "name": "gary harris",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203914.png",
+                "number": "14"
+            }, {
+                "name": "markelle fultz",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png",
+                "number": "20"
+            }, {
+                "name": "moritz wagner",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png",
+                "number": "21"
+            }, {
+                "name": "franz wagner",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
+                "number": "22"
+            }, {
+                "name": "admiral schofield",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629678.png",
+                "number": "25"
+            }, {
+                "name": "wendell carter jr.",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
+                "number": "34"
+            }, {
+                "name": "goga bitadze",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png",
+                "number": "35"
+            }, {
+                "name": "cole anthony",
+                "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png",
+                "number": "50"
             }]
         }, {
             "name": "INDIANA PACERS",

@@ -1,6 +1,6 @@
 import './App.css'
 import Teams from './pages/teams/index'
-import Homepage from './component/login.jsx'
+import Homepage from './pages/login/index'
 
 function App() {
 
