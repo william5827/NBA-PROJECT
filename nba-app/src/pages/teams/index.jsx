@@ -14,8 +14,8 @@ export default function cardTeams() {
                         <div className="image-teams-card"><img src={item.image} />
                             <div className="title-teams-card"><p>{item.name}</p></div>
                         </div>
-
                     </div>
+
 
                 </div>
             }))}
